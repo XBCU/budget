@@ -1,6 +1,8 @@
 # TempleBudget
 
-A student-focused budgeting application that helps manage finances, track expenses, and provide AI-powered financial insights.
+A simple budget management application built with React.
+
+## Project Structure
 
 ## Features
 
@@ -30,3 +32,16 @@ A student-focused budgeting application that helps manage finances, track expens
 - npm or yarn
 - Plaid API credentials
 - Firebase project credentials
+
+## Quick Start
+
+### Running the Application
+
+1. Navigate to the client directory:
+   cd client
+
+2. Install dependencies:
+   npm install
+
+3. Start the development server:
+   npm start
